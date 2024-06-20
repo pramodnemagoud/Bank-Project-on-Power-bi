@@ -1,4 +1,6 @@
 # Bank-Project-on-Power-bi
+![Dashboard](https://github.com/pramodnemagoud/Bank-Project-on-Power-bi/assets/164920277/7e959e34-c00c-49e5-afea-9ee84d220d99)
+
 #ProjectTitle: Bank Churn Analysis 
 
 #ProjectOverview:
